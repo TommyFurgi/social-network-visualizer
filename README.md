@@ -1,6 +1,6 @@
-# Social Network Visualizer
+﻿# Social Network Visualizer
 
-**Engineering thesis** · Team of 3 · [AGH University of Science and Technology](https://www.agh.edu.pl/), Cracow · **2026**
+**Bachelor's thesis** · Team of 3 · [AGH University of Science and Technology](https://www.agh.edu.pl/), Cracow · **2026**
 
 ## About the project
 
@@ -158,4 +158,4 @@ Example JSON projects for upload live in [`example-data/`](example-data/).
 
 ## License
 
-This project was created as an academic engineering thesis. Rights remain with the authors / university as applicable.
+This project was created as an academic bachelor's thesis. Rights remain with the authors / university as applicable.
